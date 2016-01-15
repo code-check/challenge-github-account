@@ -36,7 +36,7 @@ Verify GitHub Account
 ```
 
 ### Challenge from Challenge Viewer
-Press the button `RUN`, and it will run the test
+Press the button `RUN`, and it will run the test.
 
 When you pass this test, you will see result output like below.
 

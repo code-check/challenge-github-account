@@ -25,7 +25,7 @@ $ npm install
 $ $(npm bin)/mocha specifications
 ```
 
-Output for success is below.
+Output for success will be like below.
 
 ```
 Verify GitHub Account
@@ -34,8 +34,6 @@ Verify GitHub Account
 
 1 passing (871ms)
 ```
-
-
 
 ### Challenge from Challenge Viewer
 Press the button `RUN`, and it will run the test, specified in [specifications](./specifications) directory.

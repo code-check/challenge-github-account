@@ -15,14 +15,14 @@ Open [account.json](./account.json) and edit the value for key `github_username`
 ```
 
 ## Step 3: Test it!
+Tests which you need to pass are specified in [specifications](./specifications) directory. Each files that ends with `.spec.js` contains test to run.
 
 ### Challenge by GitHub Fork
-
 To run the test you will need to install modules and execute. Run commands below in your terminal.
 
 ```bash
-$ npm install
-$ $(npm bin)/mocha specifications
+$ npm install                      # Install modules
+$ $(npm bin)/mocha specifications  # Run test
 ```
 
 Output for success will be like below.
@@ -36,7 +36,7 @@ Verify GitHub Account
 ```
 
 ### Challenge from Challenge Viewer
-Press the button `RUN`, and it will run the test, specified in [specifications](./specifications) directory.
+Press the button `RUN`, and it will run the test
 
 When you pass this test, you will see result output like below.
 

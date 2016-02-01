@@ -49,3 +49,7 @@ ok 1 Verify GitHub Account should get right user
 # pass 1
 # fail 0
 ```
+
+## 提出しよう
+問題なくテストを通過することができたら、チャレンジの詳細画面から「提出」をして、別の問題に進んでみましょう。  
+作成したGitHubアカウントをcodecheckに認証すれば、あなたのGitHubを活用して、チャレンジの回答をすることが出来ます。

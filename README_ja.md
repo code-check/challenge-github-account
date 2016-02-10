@@ -37,7 +37,7 @@ Verify GitHub Account
 1 passing (871ms)
 ```
 
-### Challenge Viewer から受験している場合
+### Web Editor から受験している場合
 `RUN` ボタンを押す事でテストが実行されます。
 
 テストが問題なく通過した場合は次のような出力が出ているはずです。

@@ -35,7 +35,7 @@ Verify GitHub Account
 1 passing (871ms)
 ```
 
-### Challenge from Challenge Viewer
+### Challenge from Web Editor
 Press the button `RUN`, and it will run the test.
 
 When you pass this test, you will see result output like below.

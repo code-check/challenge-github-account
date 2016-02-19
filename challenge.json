@@ -5,6 +5,10 @@
   "excludes": [
     "challenge.json"
   ],
+  "tags": [
+    "GitHub",
+    "WebAPI"
+  ],
   "readme": {
     "en": "README.md",
     "ja": "README_ja.md"
